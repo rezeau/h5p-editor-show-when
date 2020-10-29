@@ -64,7 +64,7 @@ H5PEditor.ShowWhen = (function ($) {
         }
       }
 
-      return (type === TYPE_AND);
+      return false;
     };
   }
 
